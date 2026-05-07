@@ -80,3 +80,7 @@ After approval, the Chief of Staff assigns implementation to the `skill-creator`
 - All proposals are tracked under goal [Skills Discovery & Governance](/TEC/goals/86792fd3-dbe0-40e4-a585-875aac7a2d1e)
 - No agent may modify another agent's assigned skills without Chief of Staff approval
 - Skills are shared company assets — proposals from any agent are welcome and valued
+
+---
+
+*TEC Custom Skill — maintained by the Deltek Technical Services Engineering team.*
